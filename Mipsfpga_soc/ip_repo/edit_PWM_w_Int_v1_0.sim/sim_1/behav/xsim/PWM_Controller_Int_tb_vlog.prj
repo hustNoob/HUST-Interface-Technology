@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../PWM_w_Int_1/hdl/PWM_Controller_Int.v" \
+"../../../../PWM_w_Int_1/hdl/PWM_Controller_Int_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/workspace/Mipsfpga_soc_Seg/ip_repo/Segment_1/hdl/Seg_Controller_Int.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Seg_Controller_Int
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/workspace/Mipsfpga_soc_Seg/ip_repo/Segment_1/hdl/Seg_Controller_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Seg_Controller_tb

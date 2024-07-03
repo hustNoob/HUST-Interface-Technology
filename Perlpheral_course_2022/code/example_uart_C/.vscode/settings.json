@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "psp_api.h": "c",
+        "bsp_printf.h": "c"
+    }
+}

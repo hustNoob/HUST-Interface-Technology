@@ -1,0 +1,1 @@
+-wto "80f93bf76ed147f98a7f3c5d67089845" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "Audio_Controller_tb_behav" "xil_defaultlib.Audio_Controller_tb" "xil_defaultlib.glbl" -log "elaborate.log" 

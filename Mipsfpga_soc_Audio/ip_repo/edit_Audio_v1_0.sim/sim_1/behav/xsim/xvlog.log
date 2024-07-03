@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/workspace/Mipsfpga_soc_Audio/ip_repo/Audio_1/hdl/Audio_Controller_Int.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Audio_Controller_Int
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/workspace/Mipsfpga_soc_Audio/ip_repo/Audio_1/hdl/Audio_Controller_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Audio_Controller_tb
+INFO: [VRFC 10-2458] undeclared symbol Audio_enable, assumed default net type wire [C:/workspace/Mipsfpga_soc_Audio/ip_repo/Audio_1/hdl/Audio_Controller_tb.v:26]

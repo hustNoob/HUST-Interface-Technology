@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Segment_1/hdl/Seg_Controller_Int.v" \
+
+verilog   \
+"../../../../Segment_1/hdl/Segment_v1_0_S00_AXI.v" \
+"../../../../Segment_1/hdl/Segment_v1_0.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
